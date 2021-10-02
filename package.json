@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viktorka1347/viktorka1347.git"
+    "url": "git+https://github.com/viktorka1347/module.git"
   },
   "author": "viktoria",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/viktorka1347/viktorka1347/issues"
+    "url": "https://github.com/viktorka1347/module.git"
   },
-  "homepage": "https://github.com/viktorka1347/viktorka1347#readme",
+  "homepage": "https://github.com/viktorka1347/module.git",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.5",
