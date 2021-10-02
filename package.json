@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viktorka1347/module.git"
+    "url": "git+https://github.com/viktorka1347/AJS-2.git"
   },
   "author": "viktoria",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/viktorka1347/module.git"
+    "url": "https://github.com/viktorka1347/AJS-2.git"
   },
-  "homepage": "https://github.com/viktorka1347/module.git",
+  "homepage": "https://github.com/viktorka1347/AJS-2.git",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.5",
